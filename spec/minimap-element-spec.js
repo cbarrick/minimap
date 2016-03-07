@@ -410,7 +410,7 @@ describe('MinimapElement', () => {
         })
       })
 
-      xdescribe('with overlay decorations', () => {
+      fdescribe('with overlay decorations', () => {
         let [renderRoutine] = []
 
         beforeEach(() => {
